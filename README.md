@@ -2,7 +2,7 @@
 🔭 I’m currently working on internship portal.<br><br>🌱 I’m currently learning Python from Chai aur code youtube channel.<br><br>💬 Ask me about javascript, node js, express js, mongodb, sql, react js.<br><br>📫 How to reach me?  work.muhammadahsan@gmail.com<br><br>
 
 
-## 🌐 Socials:
+## 🌐 Connect with me @:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahsanmirza031) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadahsanramzan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@muhammdahsan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26418955) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ahsanmirza030) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/muhammdahsan) 
 
 # 💻 Tech Stack:
