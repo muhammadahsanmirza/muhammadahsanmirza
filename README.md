@@ -1,29 +1,43 @@
-# 💫 About Me:
-🔭 I’m currently working on internship portal.<br><br>🌱 I’m currently learning Python from Chai aur code youtube channel.<br><br>💬 Ask me about javascript, node js, express js, mongodb, sql, react js.<br><br>📫 How to reach me?  work.muhammadahsan@gmail.com<br><br>
+### Hi, I'm Muhammad Ahsan 👋
 
+Full Stack Engineer building production systems from interface to infrastructure — session security, search infra, event-driven pipelines, and the React/Next.js surfaces on top of them.
 
-## 🌐 Connect with me @:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahsanmirza031) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadahsanramzan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@muhammdahsan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26418955) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ahsanmirza030) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/muhammdahsan) 
+Currently a **Full Stack Engineer @ [IBS Digital](https://ibsdigital.io/)**, working on an AI-assisted enterprise correspondence platform and a multi-tenant AI chat platform.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 Daily.dev Stats:
-<a href="https://app.daily.dev/muhammadahsanmirza"><img src="https://api.daily.dev/devcards/v2/hl2Lw4tWjUHx4KfLmYQXK.png?type=default&r=693" width="356" alt="Muhammad Ahsan's Dev Card"/></a>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=muhammadahsanmirza&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadahsanmirza&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadahsanmirza&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🔧 Recent focus: BFF session security (OAuth PKCE + Redis), Elasticsearch search with document-level RBAC, RabbitMQ event pipelines, and embeddable AI chat widgets
+- 📚 Currently learning: System Design
+- 🌱 BS Software Engineering, PMAS Arid Agriculture University — 3.95/4.0 CGPA
+- 📫 Reach me at **work.muhammadahsan@gmail.com**
+- 🌐 [Portfolio](https://muhammadahsanmirza.me/) · [LinkedIn](https://www.linkedin.com/in/muhammadahsanramzan/) · [dev.to](https://dev.to/muhammadahsanmirza)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=muhammadahsanmirza&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+### Stack
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=muhammadahsanmirza&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+### Work you can't find on a repo
 
----
-[![](https://visitcount.itsvg.in/api?id=muhammadahsanmirza&icon=0&color=12)](https://visitcount.itsvg.in)
+These are NDA/private client projects — no public code, so this is the only place they're visible:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **Enterprise Correspondence Platform** — document-level RBAC search on Elasticsearch with circuit-breaker degradation, BFF session security (OAuth PKCE + Redis), and a Lexical-based editor with inline AI actions and a Copilot document chat.
+- **AI Chat Platform & Analytics Dashboard** — multi-tenant embeddable chat widget (SolidJS, SSE streaming, RAG + agentic tool calls) with a Next.js analytics dashboard and a Firebase push-notification system.
+
+*Public work is pinned below.*
+
+### GitHub stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadahsanmirza&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadahsanmirza&theme=tokyonight&hide_border=true&layout=compact)
+
+### Latest from the blog
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
