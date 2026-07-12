@@ -8,7 +8,11 @@ Full Stack Engineer building production systems from interface to infrastructure
 - 🌱 BS Software Engineering, PMAS Arid Agriculture University — 3.95/4.0 CGPA
 - 📫 Reach me at **work.muhammadahsan@gmail.com**
 - 🌐 [Portfolio](https://muhammadahsanmirza.me/) | [LinkedIn](https://www.linkedin.com/in/muhammadahsanramzan/) | [dev.to](https://dev.to/muhammadahsanmirza)
-- 📖 Reading/learning daily on [daily.dev](https://app.daily.dev/muhammadahsanmirza)
+
+### Daily.dev
+
+<a href="https://app.daily.dev/muhammadahsanmirza"><img src="https://api.daily.dev/devcards/v2/hl2Lw4tWjUHx4KfLmYQXK.png?type=default&r=693" width="356" alt="Muhammad Ahsan's Dev Card"/></a>
+
 
 ### Stack
 
