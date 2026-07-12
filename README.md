@@ -7,7 +7,8 @@ Full Stack Engineer building production systems from interface to infrastructure
 - 📚 Currently learning: System Design
 - 🌱 BS Software Engineering, PMAS Arid Agriculture University — 3.95/4.0 CGPA
 - 📫 Reach me at **work.muhammadahsan@gmail.com**
-- 🌐 [Portfolio](https://muhammadahsanmirza.me/) · [LinkedIn](https://www.linkedin.com/in/muhammadahsanramzan/) · [dev.to](https://dev.to/muhammadahsanmirza)
+- 🌐 [Portfolio](https://muhammadahsanmirza.me/) | [LinkedIn](https://www.linkedin.com/in/muhammadahsanramzan/) | [dev.to](https://dev.to/muhammadahsanmirza)
+- 📖 Reading/learning daily on [daily.dev](https://app.daily.dev/muhammadahsanmirza)
 
 ### Stack
 
