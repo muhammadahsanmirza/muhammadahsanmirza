@@ -44,4 +44,9 @@ These are NDA/private client projects — no public code, so this is the only pl
 ### Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [When One Line of Code Works Everywhere - Except Behind CloudFront](https://dev.to/muhammadahsanmirza/when-one-line-of-code-works-everywhere-except-behind-cloudfront-4hek)
+- [The Myth of the 10x Developer 🦄](https://dev.to/muhammadahsanmirza/the-myth-of-the-10x-developer-153c)
+- [Build Fast vs Build Right 🛠️](https://dev.to/muhammadahsanmirza/build-fast-vs-build-right-212k)
+- [Frontend Isn&#39;t Just UI](https://dev.to/muhammadahsanmirza/frontend-isnt-just-ui-289d)
+- [🌀 Vibe Coding: Hype, Help, or Something In Between?](https://dev.to/muhammadahsanmirza/vibe-coding-hype-help-or-something-in-between-27ce)
 <!-- BLOG-POST-LIST:END -->
