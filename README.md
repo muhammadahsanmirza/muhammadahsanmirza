@@ -38,8 +38,9 @@ These are NDA/private client projects — no public code, so this is the only pl
 
 ### GitHub stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadahsanmirza&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadahsanmirza&theme=tokyonight&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats-sigma-coral-25.vercel.app/api?username=muhammadahsanmirza&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats-sigma-coral-25.vercel.app/api/top-langs/?username=muhammadahsanmirza&theme=tokyonight&hide_border=true&layout=compact)
+
 
 ### Latest from the blog
 
